@@ -1,5 +1,6 @@
 {
   "extends": "../../tsconfig.base.json",
+  "module": "commonjs",
   "files": [],
   "include": [],
   "references": [

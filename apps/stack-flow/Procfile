@@ -1,1 +1,1 @@
-web: node apps/stack-flow/main.js
+web: node dist/apps/stack-flow/main.js
